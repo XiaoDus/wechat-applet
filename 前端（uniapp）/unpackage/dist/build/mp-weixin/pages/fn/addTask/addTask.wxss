@@ -1,0 +1,2 @@
+.addTask{width:90%;margin:10% auto}.taskName{background-color:#fff;padding:30px 20px;border-top-left-radius:15px;border-top-right-radius:15px}.taskDetails{height:150px;margin-top:1px;background-color:#fff;padding:30px 20px;border-bottom-left-radius:15px;border-bottom-right-radius:15px}.taskAward{margin-top:20px;height:100px;border-radius:15px;padding:30px 20px;background-color:#fff}.details,
+.addTask input{margin-top:10px}.taskBtn{display:flex;justify-content:space-around}.taskBtn button{width:40%;margin-bottom:0}

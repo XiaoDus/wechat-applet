@@ -1,0 +1,2 @@
+.text{font-size:25px;color:#f57776;letter-spacing:-3px;margin-top:-7px}.grid-item-box{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:15px 15px}.introduce{padding:10px 25px}.textIntroduce{padding:0 30px}.introduce,
+.introduce_1{display:flex;justify-content:space-between}.introduce_1{align-items:center}

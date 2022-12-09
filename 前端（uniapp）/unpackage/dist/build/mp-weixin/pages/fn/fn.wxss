@@ -1,0 +1,1 @@
+.notTasks{margin:30% 15%;margin-bottom:0}.addTasks{position:fixed;top:0;left:5%}.addTasks button{width:70px;height:110px;background-color:#a9a9a9;border:none;box-shadow:5px 5px 5px #a9a9a9}.notTaskText{text-align:center}.button{margin-bottom:10px}

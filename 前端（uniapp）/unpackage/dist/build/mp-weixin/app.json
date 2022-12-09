@@ -1,0 +1,57 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/fn/fn",
+    "pages/fn/addTask/addTask",
+    "pages/store/store",
+    "pages/store/storeIntroduce/storeIntroduce",
+    "pages/user/user",
+    "pages/fn/taskFinish/taskFinish"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#f6f6f6"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/TabBar/index.jpg",
+        "selectedIconPath": "static/TabBar/indexSelect.jpg",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/fn/fn",
+        "iconPath": "static/TabBar/task.jpg",
+        "selectedIconPath": "static/TabBar/taskSelect.jpg",
+        "text": "任务"
+      },
+      {
+        "pagePath": "pages/store/store",
+        "iconPath": "static/TabBar/store.jpg",
+        "selectedIconPath": "static/TabBar/storeSelect.jpg",
+        "text": "商城"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/TabBar/roll.jpg",
+        "selectedIconPath": "static/TabBar/rollSelect.jpg",
+        "text": "卡片"
+      }
+    ]
+  },
+  "runmode": "liberate",
+  "lazyCodeLoading": "requiredComponents",
+  "permission": {},
+  "uniStatistics": {
+    "enable": false
+  },
+  "usingComponents": {}
+}

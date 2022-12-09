@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "商城",
+  "usingComponents": {
+    "uni-notice-bar": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar",
+    "uni-grid": "/uni_modules/uni-grid/components/uni-grid/uni-grid",
+    "uni-grid-item": "/uni_modules/uni-grid/components/uni-grid-item/uni-grid-item",
+    "u-grid": "/uni_modules/uni-grid/components/uni-grid/uni-grid",
+    "notice": "/uni_modules/uni-notice-bar/components/uni-notice-bar/uni-notice-bar"
+  }
+}
