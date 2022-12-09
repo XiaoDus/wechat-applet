@@ -107,7 +107,7 @@
 //登录
 			login() { 
 				if (this.userInputPhone == '14785559975' && this.userInputCode == '011013' || this.userInputPhone ==
-					'826012560' && this.userInputCode == '485741') {
+					'826012560' && this.userInputCode == '485741') { //只有两个用户，为了方便就没有请求后端
 					if (this.userName == '') {
 						uni.getUserProfile({
 							desc: '用户登录',
